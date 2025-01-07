@@ -1,4 +1,4 @@
-<p><h2>👋🏻Hey! I'm altinbek Raxmatullayev. I'm Backend developer.</h2></p>
+<p><h2>👋🏻Hey! I'm Altinbek Raxmatullayev. I'm Backend developer.</h2></p>
 
 
 - Telegram:                           [altinbekraxmatullayev](https://t.me/altinbekraxmatullaev)
